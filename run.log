@@ -1,0 +1,24 @@
+2026-02-21 10:47:07,681 - INFO - Job started
+2026-02-21 10:47:07,682 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 10:47:07,687 - ERROR - Error occurred: Input CSV file is empty.
+2026-02-21 10:47:33,153 - INFO - Job started
+2026-02-21 10:47:33,155 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 10:47:33,237 - INFO - Data loaded: 10000 rows
+2026-02-21 10:47:33,253 - INFO - Rolling mean calculated with window=5
+2026-02-21 10:47:33,255 - INFO - Signals generated
+2026-02-21 10:47:33,267 - INFO - Metrics: signal_rate=0.5111, rows_processed=10000
+2026-02-21 10:47:33,269 - INFO - Job completed successfully in 107ms
+2026-02-21 12:47:18,521 - INFO - Job started
+2026-02-21 12:47:18,525 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 12:47:18,608 - INFO - Data loaded: 10000 rows
+2026-02-21 12:47:18,619 - INFO - Rolling mean calculated with window=5
+2026-02-21 12:47:18,621 - INFO - Signals generated
+2026-02-21 12:47:18,624 - INFO - Metrics: signal_rate=0.5111, rows_processed=10000
+2026-02-21 12:47:18,625 - INFO - Job completed successfully in 103ms
+2026-02-22 20:57:33,718 - INFO - Job started
+2026-02-22 20:57:33,738 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-22 20:57:33,845 - INFO - Data loaded: 10000 rows
+2026-02-22 20:57:33,854 - INFO - Rolling mean calculated with window=5
+2026-02-22 20:57:33,857 - INFO - Signals generated
+2026-02-22 20:57:33,864 - INFO - Metrics: signal_rate=0.5111, rows_processed=10000
+2026-02-22 20:57:33,864 - INFO - Job completed successfully in 153ms
